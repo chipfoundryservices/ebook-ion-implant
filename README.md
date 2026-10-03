@@ -4,7 +4,7 @@
 This volume provides a research-grade, first-principles examination of semiconductor ion implantation, atomic lattice damage, sub-millisecond thermal activation, and equipment engineering moats.
 
 ## Repository Contents
-- **`PREFACE.md`**: Charlie Munger's Inversion Principle applied to dopant engineering.
+- **`PREFACE.md`**: The First-Principles Inversion Framework applied to dopant engineering.
 - **`chapters/`**: 8 comprehensive technical chapters detailing stopping power, range physics, amorphization, laser annealing, GAAFET doping, and supplier moats.
 - **`appendices/`**: Complete engineering glossary, mathematical derivations (LSS stopping power, Pearson IV), tool specifications, and portfolio links.
 - **`book8-database-updates.sql`**: Production database keywords for MariaDB (CFS) and PostgreSQL (AMEM).

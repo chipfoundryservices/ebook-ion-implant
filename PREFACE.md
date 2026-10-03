@@ -6,7 +6,7 @@ In semiconductor physics, an undoped silicon wafer is an insulator. To transform
 
 When industry observers consider ion implantation, they often categorize it as a mature, low-risk process compared to EUV lithography. They fail to understand the core physics: **Ion implantation is the sole method capable of placing dopants at precise subsurface depths with independent control of dose and energy.**
 
-Following Charlie Munger's inversion principle, we ask: *How do you destroy a $2\text{nm}$ logic fab through ion implantation failure?*
+Following The First-Principles Inversion Framework, we ask: *How do you destroy a $2\text{nm}$ logic fab through ion implantation failure?*
 
 ### 1. Beam Energy Contamination & Cross-Talk
 If an extraction beam allows neutral atoms, molecular clusters, or incorrect isotopes to slip past the mass spectrometer, dopants land at unpredictable depths. In a GAAFET nanosheet with a $5\text{nm}$ channel, a depth variation of $1\text{nm}$ shifts threshold voltage ($V_{th}$) by $80\text{mV}$, turning off high-performance cores.
